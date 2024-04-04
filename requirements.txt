@@ -1,0 +1,15 @@
+geographiclib==2.0
+geopy==2.4.1
+gitdb==4.0.11
+GitPython==3.1.41
+gpxpy==1.6.2
+numpy==1.26.4
+overpy==0.7
+pandas==2.2.1
+python-dateutil==2.9.0.post0
+pytz==2024.1
+setuptools==69.0.3
+six==1.16.0
+smmap==5.0.1
+tzdata==2024.1
+wheel==0.42.0
